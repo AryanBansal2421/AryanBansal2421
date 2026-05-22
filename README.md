@@ -34,11 +34,17 @@ Quick learner, process-oriented, and passionate about building **impactful techn
 
 ---
 
-### 🗳️ Voter Passport – QR Based System *(WIP)*
-- Developing a frontend for **QR-based voter data update & verification**
-- Designed workflows to support **inter-state voter mobility**
-- Hackathon-based problem-solving project  
-🔗 GitHub: https://github.com/AryanBansal2421/Alpha-bots.git
+🌡️ **Smart Temperature Controller** *(Embedded Systems)*
+- Designed closed-loop feedback control system using Arduino Uno + TMP36 sensor + ServoMotor.
+- Implemented 10-bit ADC sensing with 4.88mV/°C resolution and proportional servo actuation
+- Simulates HVAC thermostat logic — real-time setpoint adjustment via potentiometer
+- 🔗 GitHub: [smart-temperature-controller](https://github.com/AryanBansal2421/smart-temperature-controller)
+
+⚙️ **WSS Sensor Pass/Fail Validation System** *(Industrial Testing — Continental Automotive)*
+- Developed structured test protocol for Wheel Speed Sensor functional validation using PLC & LabVIEW
+- Automated pass/fail logic based on sensor output thresholds defined in SOP documentation
+- Reduced manual verification time during end-of-line testing at IMT Manesar facility
+- 🔗 Tools: LabVIEW, PLC, Continental SOP framework
 
 ---
 
